@@ -4,11 +4,14 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## Unreleased
 
+## Version 0.1.5 - 2021-09-04
+
 ### Updated
 * [#74](https://github.com/slickml/slick-ml/pull/74) updated `requirements.txt` to the latest versions.
 * [#71](https://github.com/slickml/slick-ml/pull/71) updated optimization examples.
 
 ### Added
+* [#75](https://github.com/slickml/slick-ml/pull/75) added `GitHub Actions` for ci/cd workflow and retired `travis ci`.
 * [#71](https://github.com/slickml/slick-ml/pull/71) added `XGBoostRegressorBayesianOpt` and `XGBoostRegressorHyperOpt` classes in optimization. 
 
 ## Version 0.1.4 - 2021-05-31
